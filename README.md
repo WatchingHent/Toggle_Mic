@@ -1,0 +1,1 @@
+Some time ago I was playing lethal company on a open microphone because who wouldn't do that, Lethal company doesn't have a mute button and I didn't want people to hear my conversation , So i created this standalone python code that mutes your whole microphone kinda like on discord but Generally everywhere.
